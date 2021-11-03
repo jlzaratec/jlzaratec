@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jlzaratec
-- 👀 I’m interested in Functional & Quantic Programming
+- 💞️ PHP Lover
+- 👀 I’m interested in Funcvtional & Quantic Programming
 - 🌱 I’m currently learning Elixir & Q#
 - 💞️ I’m looking to collaborate on Web & Desktops Apps
 - 📫 How to reach me jlzaratec@outlook.com
