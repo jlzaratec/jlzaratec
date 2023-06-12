@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jlzaratec
-- 💞️ PHP Lover
+- 💞️ WordPres and PHP Lover
 - 👀 I’m interested in Functional & Quantic Programming
 - 🌱 I’m currently learning Elixir & Q#
 - 💞️ I’m looking to collaborate on Web & Desktops Apps
