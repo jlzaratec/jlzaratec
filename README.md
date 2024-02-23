@@ -9,4 +9,4 @@
 jlzaratec/jlzaratec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/luiszarate"><img src="https://api.daily.dev/devcards/df8b549e01c94f15bdc76231025ef226.png?r=zi4" width="400" alt="Luis Zárate's Dev Card"/></a>
+<a href="https://app.daily.dev/luiszarate"><img src="https://api.daily.dev/devcards/v2/9CUvlS22tlvRovnNBQTDF.png?r=e17&type=default" width="356" alt="Luis Zárate's Dev Card"/></a>
